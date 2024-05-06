@@ -10,3 +10,4 @@ daughter and I built a couple different andrino projects but the code was cut an
 MakerPlumber/MakerPlumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Just discovered neopixels and have been having alot of fun playing around with FPP, Xlights, and recently WLED. Wish I had found WLED first since it does everything I need and more, but owell now I know FPP and Xlights a little.
